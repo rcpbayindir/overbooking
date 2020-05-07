@@ -1,0 +1,280 @@
+starting worker pid=46108 on localhost:11886 at 07:05:49.911
+starting worker pid=46109 on localhost:11886 at 07:05:49.924
+starting worker pid=46110 on localhost:11886 at 07:05:49.936
+starting worker pid=46111 on localhost:11886 at 07:05:49.948
+starting worker pid=46112 on localhost:11886 at 07:05:49.960
+starting worker pid=46113 on localhost:11886 at 07:05:49.971
+starting worker pid=46114 on localhost:11886 at 07:05:49.982
+starting worker pid=46116 on localhost:11886 at 07:05:49.993
+starting worker pid=46117 on localhost:11886 at 07:05:50.004
+starting worker pid=46119 on localhost:11886 at 07:05:50.015
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold01: eta=0.01, max_depth=3, gamma=1.0, colsample_bytree=0.25, min_child_weight=3, subsample=1.00, nrounds=500 
++ Fold01: eta=0.10, max_depth=5, gamma=0.7, colsample_bytree=0.25, min_child_weight=3, subsample=0.25, nrounds=100 
++ Fold01: eta=0.50, max_depth=6, gamma=0.1, colsample_bytree=0.50, min_child_weight=5, subsample=1.00, nrounds=500 
++ Fold01: eta=0.60, max_depth=5, gamma=0.7, colsample_bytree=1.00, min_child_weight=1, subsample=0.50, nrounds=500 
++ Fold01: eta=0.70, max_depth=3, gamma=0.8, colsample_bytree=0.25, min_child_weight=1, subsample=0.50, nrounds=500 
++ Fold01: eta=0.70, max_depth=3, gamma=0.8, colsample_bytree=0.50, min_child_weight=3, subsample=0.25, nrounds=500 
++ Fold01: eta=0.10, max_depth=3, gamma=0.0, colsample_bytree=0.50, min_child_weight=3, subsample=1.00, nrounds=500 + Fold01: eta=0.90, max_depth=3, gamma=0.2, colsample_bytree=0.75, min_child_weight=3, subsample=1.00, nrounds=100
+ 
++ Fold01: eta=0.99, max_depth=5, gamma=0.8, colsample_bytree=0.50, min_child_weight=5, subsample=0.50, nrounds=500 
++ Fold01: eta=0.50, max_depth=3, gamma=0.1, colsample_bytree=0.50, min_child_weight=5, subsample=0.50, nrounds=100 
+starting worker pid=48963 on localhost:11886 at 07:07:46.838
+starting worker pid=48972 on localhost:11886 at 07:07:47.018
+starting worker pid=48981 on localhost:11886 at 07:07:47.197
+starting worker pid=48990 on localhost:11886 at 07:07:47.376
+starting worker pid=48999 on localhost:11886 at 07:07:47.557
+starting worker pid=49009 on localhost:11886 at 07:07:47.739
+starting worker pid=49018 on localhost:11886 at 07:07:47.919
+starting worker pid=49027 on localhost:11886 at 07:07:48.094
+starting worker pid=49036 on localhost:11886 at 07:07:48.275
+starting worker pid=49045 on localhost:11886 at 07:07:48.458
+Loading required package: caret
+Loading required package: lattice
+Loading required package: ggplot2
+Loading required package: caret
+Loading required package: caret
+loaded caret and set parent environment
+Loading required package: caret
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+Loading required package: caret
+Loading required package: lattice
+Loading required package: ggplot2
+loaded caret and set parent environment
+Loading required package: caret
+Loading required package: lattice
+Loading required package: ggplot2
+loaded caret and set parent environment
+Loading required package: caret
+Loading required package: caret
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: caret
+loaded caret and set parent environment
+loaded caret and set parent environment
+Loading required package: lattice
+Loading required package: ggplot2
+loaded caret and set parent environment
+Loading required package: caret
+Loading required package: lattice
+Loading required package: ggplot2
+loaded caret and set parent environment
++ Fold01: eta=0.10, max_depth=5, gamma=0.7, colsample_bytree=0.25, min_child_weight=3, subsample=0.25, nrounds=100 + Fold01: eta=0.50, max_depth=6, gamma=0.1, colsample_bytree=0.50, min_child_weight=5, subsample=1.00, nrounds=500
+ 
++ Fold01: eta=0.01, max_depth=3, gamma=1.0, colsample_bytree=0.25, min_child_weight=3, subsample=1.00, nrounds=500 
++ Fold01: eta=0.70, max_depth=3, gamma=0.8, colsample_bytree=0.25, min_child_weight=1, subsample=0.50, nrounds=500 
++ Fold01: eta=0.10, max_depth=3, gamma=0.0, colsample_bytree=0.50, min_child_weight=3, subsample=1.00, nrounds=500 
++ Fold01: eta=0.60, max_depth=5, gamma=0.7, colsample_bytree=1.00, min_child_weight=1, subsample=0.50, nrounds=500 
++ Fold01: eta=0.50, max_depth=3, gamma=0.1, colsample_bytree=0.50, min_child_weight=5, subsample=0.50, nrounds=100 
++ Fold01: eta=0.70, max_depth=3, gamma=0.8, colsample_bytree=0.50, min_child_weight=3, subsample=0.25, nrounds=500 
++ Fold01: eta=0.99, max_depth=5, gamma=0.8, colsample_bytree=0.50, min_child_weight=5, subsample=0.50, nrounds=500 
++ Fold01: eta=0.90, max_depth=3, gamma=0.2, colsample_bytree=0.75, min_child_weight=3, subsample=1.00, nrounds=100 
+- Fold01: eta=0.50, max_depth=3, gamma=0.1, colsample_bytree=0.50, min_child_weight=5, subsample=0.50, nrounds=100 
++ Fold02: eta=0.01, max_depth=3, gamma=1.0, colsample_bytree=0.25, min_child_weight=3, subsample=1.00, nrounds=500 
+- Fold01: eta=0.90, max_depth=3, gamma=0.2, colsample_bytree=0.75, min_child_weight=3, subsample=1.00, nrounds=100 
++ Fold02: eta=0.10, max_depth=3, gamma=0.0, colsample_bytree=0.50, min_child_weight=3, subsample=1.00, nrounds=500 
+- Fold01: eta=0.10, max_depth=5, gamma=0.7, colsample_bytree=0.25, min_child_weight=3, subsample=0.25, nrounds=100 
++ Fold02: eta=0.10, max_depth=5, gamma=0.7, colsample_bytree=0.25, min_child_weight=3, subsample=0.25, nrounds=100 
+- Fold02: eta=0.10, max_depth=5, gamma=0.7, colsample_bytree=0.25, min_child_weight=3, subsample=0.25, nrounds=100 
++ Fold02: eta=0.50, max_depth=3, gamma=0.1, colsample_bytree=0.50, min_child_weight=5, subsample=0.50, nrounds=100 
+- Fold02: eta=0.10, max_depth=3, gamma=0.0, colsample_bytree=0.50, min_child_weight=3, subsample=1.00, nrounds=500 
++ Fold02: eta=0.50, max_depth=6, gamma=0.1, colsample_bytree=0.50, min_child_weight=5, subsample=1.00, nrounds=500 
+- Fold02: eta=0.01, max_depth=3, gamma=1.0, colsample_bytree=0.25, min_child_weight=3, subsample=1.00, nrounds=500 
++ Fold02: eta=0.60, max_depth=5, gamma=0.7, colsample_bytree=1.00, min_child_weight=1, subsample=0.50, nrounds=500 
+- Fold02: eta=0.50, max_depth=3, gamma=0.1, colsample_bytree=0.50, min_child_weight=5, subsample=0.50, nrounds=100 
++ Fold02: eta=0.70, max_depth=3, gamma=0.8, colsample_bytree=0.25, min_child_weight=1, subsample=0.50, nrounds=500 
+- Fold01: eta=0.01, max_depth=3, gamma=1.0, colsample_bytree=0.25, min_child_weight=3, subsample=1.00, nrounds=500 
++ Fold02: eta=0.70, max_depth=3, gamma=0.8, colsample_bytree=0.50, min_child_weight=3, subsample=0.25, nrounds=500 
+- Fold01: eta=0.70, max_depth=3, gamma=0.8, colsample_bytree=0.50, min_child_weight=3, subsample=0.25, nrounds=500 
++ Fold02: eta=0.90, max_depth=3, gamma=0.2, colsample_bytree=0.75, min_child_weight=3, subsample=1.00, nrounds=100 
+- Fold01: eta=0.70, max_depth=3, gamma=0.8, colsample_bytree=0.25, min_child_weight=1, subsample=0.50, nrounds=500 
++ Fold02: eta=0.99, max_depth=5, gamma=0.8, colsample_bytree=0.50, min_child_weight=5, subsample=0.50, nrounds=500 
+- Fold02: eta=0.90, max_depth=3, gamma=0.2, colsample_bytree=0.75, min_child_weight=3, subsample=1.00, nrounds=100 
++ Fold03: eta=0.01, max_depth=3, gamma=1.0, colsample_bytree=0.25, min_child_weight=3, subsample=1.00, nrounds=500 
+- Fold01: eta=0.10, max_depth=3, gamma=0.0, colsample_bytree=0.50, min_child_weight=3, subsample=1.00, nrounds=500 
++ Fold03: eta=0.10, max_depth=3, gamma=0.0, colsample_bytree=0.50, min_child_weight=3, subsample=1.00, nrounds=500 
+- Fold01: eta=0.99, max_depth=5, gamma=0.8, colsample_bytree=0.50, min_child_weight=5, subsample=0.50, nrounds=500 
++ Fold03: eta=0.10, max_depth=5, gamma=0.7, colsample_bytree=0.25, min_child_weight=3, subsample=0.25, nrounds=100 
+- Fold02: eta=0.70, max_depth=3, gamma=0.8, colsample_bytree=0.25, min_child_weight=1, subsample=0.50, nrounds=500 
++ Fold03: eta=0.50, max_depth=3, gamma=0.1, colsample_bytree=0.50, min_child_weight=5, subsample=0.50, nrounds=100 
+- Fold01: eta=0.50, max_depth=6, gamma=0.1, colsample_bytree=0.50, min_child_weight=5, subsample=1.00, nrounds=500 
++ Fold03: eta=0.50, max_depth=6, gamma=0.1, colsample_bytree=0.50, min_child_weight=5, subsample=1.00, nrounds=500 
+- Fold02: eta=0.70, max_depth=3, gamma=0.8, colsample_bytree=0.50, min_child_weight=3, subsample=0.25, nrounds=500 
++ Fold03: eta=0.60, max_depth=5, gamma=0.7, colsample_bytree=1.00, min_child_weight=1, subsample=0.50, nrounds=500 
+- Fold03: eta=0.50, max_depth=3, gamma=0.1, colsample_bytree=0.50, min_child_weight=5, subsample=0.50, nrounds=100 
++ Fold03: eta=0.70, max_depth=3, gamma=0.8, colsample_bytree=0.25, min_child_weight=1, subsample=0.50, nrounds=500 
+- Fold03: eta=0.01, max_depth=3, gamma=1.0, colsample_bytree=0.25, min_child_weight=3, subsample=1.00, nrounds=500 
++ Fold03: eta=0.70, max_depth=3, gamma=0.8, colsample_bytree=0.50, min_child_weight=3, subsample=0.25, nrounds=500 
+- Fold01: eta=0.60, max_depth=5, gamma=0.7, colsample_bytree=1.00, min_child_weight=1, subsample=0.50, nrounds=500 
++ Fold03: eta=0.90, max_depth=3, gamma=0.2, colsample_bytree=0.75, min_child_weight=3, subsample=1.00, nrounds=100 
+- Fold03: eta=0.10, max_depth=3, gamma=0.0, colsample_bytree=0.50, min_child_weight=3, subsample=1.00, nrounds=500 
++ Fold03: eta=0.99, max_depth=5, gamma=0.8, colsample_bytree=0.50, min_child_weight=5, subsample=0.50, nrounds=500 
+- Fold03: eta=0.10, max_depth=5, gamma=0.7, colsample_bytree=0.25, min_child_weight=3, subsample=0.25, nrounds=100 
++ Fold04: eta=0.01, max_depth=3, gamma=1.0, colsample_bytree=0.25, min_child_weight=3, subsample=1.00, nrounds=500 
+- Fold03: eta=0.90, max_depth=3, gamma=0.2, colsample_bytree=0.75, min_child_weight=3, subsample=1.00, nrounds=100 
++ Fold04: eta=0.10, max_depth=3, gamma=0.0, colsample_bytree=0.50, min_child_weight=3, subsample=1.00, nrounds=500 
+- Fold02: eta=0.99, max_depth=5, gamma=0.8, colsample_bytree=0.50, min_child_weight=5, subsample=0.50, nrounds=500 
++ Fold04: eta=0.10, max_depth=5, gamma=0.7, colsample_bytree=0.25, min_child_weight=3, subsample=0.25, nrounds=100 
+- Fold03: eta=0.70, max_depth=3, gamma=0.8, colsample_bytree=0.25, min_child_weight=1, subsample=0.50, nrounds=500 
++ Fold04: eta=0.50, max_depth=3, gamma=0.1, colsample_bytree=0.50, min_child_weight=5, subsample=0.50, nrounds=100 
+- Fold04: eta=0.10, max_depth=5, gamma=0.7, colsample_bytree=0.25, min_child_weight=3, subsample=0.25, nrounds=100 
++ Fold04: eta=0.50, max_depth=6, gamma=0.1, colsample_bytree=0.50, min_child_weight=5, subsample=1.00, nrounds=500 
+- Fold02: eta=0.60, max_depth=5, gamma=0.7, colsample_bytree=1.00, min_child_weight=1, subsample=0.50, nrounds=500 
++ Fold04: eta=0.60, max_depth=5, gamma=0.7, colsample_bytree=1.00, min_child_weight=1, subsample=0.50, nrounds=500 
+- Fold03: eta=0.70, max_depth=3, gamma=0.8, colsample_bytree=0.50, min_child_weight=3, subsample=0.25, nrounds=500 
++ Fold04: eta=0.70, max_depth=3, gamma=0.8, colsample_bytree=0.25, min_child_weight=1, subsample=0.50, nrounds=500 
+- Fold04: eta=0.01, max_depth=3, gamma=1.0, colsample_bytree=0.25, min_child_weight=3, subsample=1.00, nrounds=500 
++ Fold04: eta=0.70, max_depth=3, gamma=0.8, colsample_bytree=0.50, min_child_weight=3, subsample=0.25, nrounds=500 
+- Fold04: eta=0.50, max_depth=3, gamma=0.1, colsample_bytree=0.50, min_child_weight=5, subsample=0.50, nrounds=100 
++ Fold04: eta=0.90, max_depth=3, gamma=0.2, colsample_bytree=0.75, min_child_weight=3, subsample=1.00, nrounds=100 
+- Fold02: eta=0.50, max_depth=6, gamma=0.1, colsample_bytree=0.50, min_child_weight=5, subsample=1.00, nrounds=500 
++ Fold04: eta=0.99, max_depth=5, gamma=0.8, colsample_bytree=0.50, min_child_weight=5, subsample=0.50, nrounds=500 
+- Fold04: eta=0.10, max_depth=3, gamma=0.0, colsample_bytree=0.50, min_child_weight=3, subsample=1.00, nrounds=500 
++ Fold05: eta=0.01, max_depth=3, gamma=1.0, colsample_bytree=0.25, min_child_weight=3, subsample=1.00, nrounds=500 
+- Fold04: eta=0.90, max_depth=3, gamma=0.2, colsample_bytree=0.75, min_child_weight=3, subsample=1.00, nrounds=100 
++ Fold05: eta=0.10, max_depth=3, gamma=0.0, colsample_bytree=0.50, min_child_weight=3, subsample=1.00, nrounds=500 
+- Fold03: eta=0.99, max_depth=5, gamma=0.8, colsample_bytree=0.50, min_child_weight=5, subsample=0.50, nrounds=500 
++ Fold05: eta=0.10, max_depth=5, gamma=0.7, colsample_bytree=0.25, min_child_weight=3, subsample=0.25, nrounds=100 
+- Fold03: eta=0.50, max_depth=6, gamma=0.1, colsample_bytree=0.50, min_child_weight=5, subsample=1.00, nrounds=500 
++ Fold05: eta=0.50, max_depth=3, gamma=0.1, colsample_bytree=0.50, min_child_weight=5, subsample=0.50, nrounds=100 
+- Fold05: eta=0.01, max_depth=3, gamma=1.0, colsample_bytree=0.25, min_child_weight=3, subsample=1.00, nrounds=500 
++ Fold05: eta=0.50, max_depth=6, gamma=0.1, colsample_bytree=0.50, min_child_weight=5, subsample=1.00, nrounds=500 
+- Fold04: eta=0.70, max_depth=3, gamma=0.8, colsample_bytree=0.50, min_child_weight=3, subsample=0.25, nrounds=500 
++ Fold05: eta=0.60, max_depth=5, gamma=0.7, colsample_bytree=1.00, min_child_weight=1, subsample=0.50, nrounds=500 
+- Fold03: eta=0.60, max_depth=5, gamma=0.7, colsample_bytree=1.00, min_child_weight=1, subsample=0.50, nrounds=500 
++ Fold05: eta=0.70, max_depth=3, gamma=0.8, colsample_bytree=0.25, min_child_weight=1, subsample=0.50, nrounds=500 
+- Fold04: eta=0.70, max_depth=3, gamma=0.8, colsample_bytree=0.25, min_child_weight=1, subsample=0.50, nrounds=500 
++ Fold05: eta=0.70, max_depth=3, gamma=0.8, colsample_bytree=0.50, min_child_weight=3, subsample=0.25, nrounds=500 
+- Fold05: eta=0.50, max_depth=3, gamma=0.1, colsample_bytree=0.50, min_child_weight=5, subsample=0.50, nrounds=100 
++ Fold05: eta=0.90, max_depth=3, gamma=0.2, colsample_bytree=0.75, min_child_weight=3, subsample=1.00, nrounds=100 
+- Fold05: eta=0.10, max_depth=5, gamma=0.7, colsample_bytree=0.25, min_child_weight=3, subsample=0.25, nrounds=100 
++ Fold05: eta=0.99, max_depth=5, gamma=0.8, colsample_bytree=0.50, min_child_weight=5, subsample=0.50, nrounds=500 
+- Fold05: eta=0.10, max_depth=3, gamma=0.0, colsample_bytree=0.50, min_child_weight=3, subsample=1.00, nrounds=500 
++ Fold06: eta=0.01, max_depth=3, gamma=1.0, colsample_bytree=0.25, min_child_weight=3, subsample=1.00, nrounds=500 
+- Fold05: eta=0.90, max_depth=3, gamma=0.2, colsample_bytree=0.75, min_child_weight=3, subsample=1.00, nrounds=100 
++ Fold06: eta=0.10, max_depth=3, gamma=0.0, colsample_bytree=0.50, min_child_weight=3, subsample=1.00, nrounds=500 
+- Fold05: eta=0.70, max_depth=3, gamma=0.8, colsample_bytree=0.50, min_child_weight=3, subsample=0.25, nrounds=500 
++ Fold06: eta=0.10, max_depth=5, gamma=0.7, colsample_bytree=0.25, min_child_weight=3, subsample=0.25, nrounds=100 
+- Fold06: eta=0.10, max_depth=5, gamma=0.7, colsample_bytree=0.25, min_child_weight=3, subsample=0.25, nrounds=100 
++ Fold06: eta=0.50, max_depth=3, gamma=0.1, colsample_bytree=0.50, min_child_weight=5, subsample=0.50, nrounds=100 
+- Fold06: eta=0.01, max_depth=3, gamma=1.0, colsample_bytree=0.25, min_child_weight=3, subsample=1.00, nrounds=500 
++ Fold06: eta=0.50, max_depth=6, gamma=0.1, colsample_bytree=0.50, min_child_weight=5, subsample=1.00, nrounds=500 
+- Fold05: eta=0.70, max_depth=3, gamma=0.8, colsample_bytree=0.25, min_child_weight=1, subsample=0.50, nrounds=500 
++ Fold06: eta=0.60, max_depth=5, gamma=0.7, colsample_bytree=1.00, min_child_weight=1, subsample=0.50, nrounds=500 
+- Fold06: eta=0.50, max_depth=3, gamma=0.1, colsample_bytree=0.50, min_child_weight=5, subsample=0.50, nrounds=100 
++ Fold06: eta=0.70, max_depth=3, gamma=0.8, colsample_bytree=0.25, min_child_weight=1, subsample=0.50, nrounds=500 
+- Fold04: eta=0.99, max_depth=5, gamma=0.8, colsample_bytree=0.50, min_child_weight=5, subsample=0.50, nrounds=500 
++ Fold06: eta=0.70, max_depth=3, gamma=0.8, colsample_bytree=0.50, min_child_weight=3, subsample=0.25, nrounds=500 
+- Fold06: eta=0.10, max_depth=3, gamma=0.0, colsample_bytree=0.50, min_child_weight=3, subsample=1.00, nrounds=500 
++ Fold06: eta=0.90, max_depth=3, gamma=0.2, colsample_bytree=0.75, min_child_weight=3, subsample=1.00, nrounds=100 
+- Fold04: eta=0.60, max_depth=5, gamma=0.7, colsample_bytree=1.00, min_child_weight=1, subsample=0.50, nrounds=500 
++ Fold06: eta=0.99, max_depth=5, gamma=0.8, colsample_bytree=0.50, min_child_weight=5, subsample=0.50, nrounds=500 
+- Fold04: eta=0.50, max_depth=6, gamma=0.1, colsample_bytree=0.50, min_child_weight=5, subsample=1.00, nrounds=500 
++ Fold07: eta=0.01, max_depth=3, gamma=1.0, colsample_bytree=0.25, min_child_weight=3, subsample=1.00, nrounds=500 
+- Fold06: eta=0.90, max_depth=3, gamma=0.2, colsample_bytree=0.75, min_child_weight=3, subsample=1.00, nrounds=100 
++ Fold07: eta=0.10, max_depth=3, gamma=0.0, colsample_bytree=0.50, min_child_weight=3, subsample=1.00, nrounds=500 
+- Fold06: eta=0.70, max_depth=3, gamma=0.8, colsample_bytree=0.25, min_child_weight=1, subsample=0.50, nrounds=500 
++ Fold07: eta=0.10, max_depth=5, gamma=0.7, colsample_bytree=0.25, min_child_weight=3, subsample=0.25, nrounds=100 
+- Fold07: eta=0.10, max_depth=5, gamma=0.7, colsample_bytree=0.25, min_child_weight=3, subsample=0.25, nrounds=100 
++ Fold07: eta=0.50, max_depth=3, gamma=0.1, colsample_bytree=0.50, min_child_weight=5, subsample=0.50, nrounds=100 
+- Fold05: eta=0.50, max_depth=6, gamma=0.1, colsample_bytree=0.50, min_child_weight=5, subsample=1.00, nrounds=500 
++ Fold07: eta=0.50, max_depth=6, gamma=0.1, colsample_bytree=0.50, min_child_weight=5, subsample=1.00, nrounds=500 
+- Fold05: eta=0.99, max_depth=5, gamma=0.8, colsample_bytree=0.50, min_child_weight=5, subsample=0.50, nrounds=500 
++ Fold07: eta=0.60, max_depth=5, gamma=0.7, colsample_bytree=1.00, min_child_weight=1, subsample=0.50, nrounds=500 
+- Fold06: eta=0.70, max_depth=3, gamma=0.8, colsample_bytree=0.50, min_child_weight=3, subsample=0.25, nrounds=500 
++ Fold07: eta=0.70, max_depth=3, gamma=0.8, colsample_bytree=0.25, min_child_weight=1, subsample=0.50, nrounds=500 
+- Fold07: eta=0.50, max_depth=3, gamma=0.1, colsample_bytree=0.50, min_child_weight=5, subsample=0.50, nrounds=100 
++ Fold07: eta=0.70, max_depth=3, gamma=0.8, colsample_bytree=0.50, min_child_weight=3, subsample=0.25, nrounds=500 
+- Fold05: eta=0.60, max_depth=5, gamma=0.7, colsample_bytree=1.00, min_child_weight=1, subsample=0.50, nrounds=500 
++ Fold07: eta=0.90, max_depth=3, gamma=0.2, colsample_bytree=0.75, min_child_weight=3, subsample=1.00, nrounds=100 
+- Fold07: eta=0.01, max_depth=3, gamma=1.0, colsample_bytree=0.25, min_child_weight=3, subsample=1.00, nrounds=500 
++ Fold07: eta=0.99, max_depth=5, gamma=0.8, colsample_bytree=0.50, min_child_weight=5, subsample=0.50, nrounds=500 
+- Fold07: eta=0.90, max_depth=3, gamma=0.2, colsample_bytree=0.75, min_child_weight=3, subsample=1.00, nrounds=100 
++ Fold08: eta=0.01, max_depth=3, gamma=1.0, colsample_bytree=0.25, min_child_weight=3, subsample=1.00, nrounds=500 
+- Fold07: eta=0.10, max_depth=3, gamma=0.0, colsample_bytree=0.50, min_child_weight=3, subsample=1.00, nrounds=500 
++ Fold08: eta=0.10, max_depth=3, gamma=0.0, colsample_bytree=0.50, min_child_weight=3, subsample=1.00, nrounds=500 
+- Fold07: eta=0.70, max_depth=3, gamma=0.8, colsample_bytree=0.25, min_child_weight=1, subsample=0.50, nrounds=500 
++ Fold08: eta=0.10, max_depth=5, gamma=0.7, colsample_bytree=0.25, min_child_weight=3, subsample=0.25, nrounds=100 
+- Fold06: eta=0.50, max_depth=6, gamma=0.1, colsample_bytree=0.50, min_child_weight=5, subsample=1.00, nrounds=500 
++ Fold08: eta=0.50, max_depth=3, gamma=0.1, colsample_bytree=0.50, min_child_weight=5, subsample=0.50, nrounds=100 
+- Fold08: eta=0.10, max_depth=5, gamma=0.7, colsample_bytree=0.25, min_child_weight=3, subsample=0.25, nrounds=100 
++ Fold08: eta=0.50, max_depth=6, gamma=0.1, colsample_bytree=0.50, min_child_weight=5, subsample=1.00, nrounds=500 
+- Fold06: eta=0.60, max_depth=5, gamma=0.7, colsample_bytree=1.00, min_child_weight=1, subsample=0.50, nrounds=500 
++ Fold08: eta=0.60, max_depth=5, gamma=0.7, colsample_bytree=1.00, min_child_weight=1, subsample=0.50, nrounds=500 
+- Fold06: eta=0.99, max_depth=5, gamma=0.8, colsample_bytree=0.50, min_child_weight=5, subsample=0.50, nrounds=500 
++ Fold08: eta=0.70, max_depth=3, gamma=0.8, colsample_bytree=0.25, min_child_weight=1, subsample=0.50, nrounds=500 
+- Fold07: eta=0.70, max_depth=3, gamma=0.8, colsample_bytree=0.50, min_child_weight=3, subsample=0.25, nrounds=500 
++ Fold08: eta=0.70, max_depth=3, gamma=0.8, colsample_bytree=0.50, min_child_weight=3, subsample=0.25, nrounds=500 
+- Fold08: eta=0.50, max_depth=3, gamma=0.1, colsample_bytree=0.50, min_child_weight=5, subsample=0.50, nrounds=100 
++ Fold08: eta=0.90, max_depth=3, gamma=0.2, colsample_bytree=0.75, min_child_weight=3, subsample=1.00, nrounds=100 
+- Fold08: eta=0.90, max_depth=3, gamma=0.2, colsample_bytree=0.75, min_child_weight=3, subsample=1.00, nrounds=100 
++ Fold08: eta=0.99, max_depth=5, gamma=0.8, colsample_bytree=0.50, min_child_weight=5, subsample=0.50, nrounds=500 
+- Fold08: eta=0.01, max_depth=3, gamma=1.0, colsample_bytree=0.25, min_child_weight=3, subsample=1.00, nrounds=500 
++ Fold09: eta=0.01, max_depth=3, gamma=1.0, colsample_bytree=0.25, min_child_weight=3, subsample=1.00, nrounds=500 
+- Fold08: eta=0.10, max_depth=3, gamma=0.0, colsample_bytree=0.50, min_child_weight=3, subsample=1.00, nrounds=500 
++ Fold09: eta=0.10, max_depth=3, gamma=0.0, colsample_bytree=0.50, min_child_weight=3, subsample=1.00, nrounds=500 
+- Fold07: eta=0.60, max_depth=5, gamma=0.7, colsample_bytree=1.00, min_child_weight=1, subsample=0.50, nrounds=500 
++ Fold09: eta=0.10, max_depth=5, gamma=0.7, colsample_bytree=0.25, min_child_weight=3, subsample=0.25, nrounds=100 
+- Fold07: eta=0.99, max_depth=5, gamma=0.8, colsample_bytree=0.50, min_child_weight=5, subsample=0.50, nrounds=500 
++ Fold09: eta=0.50, max_depth=3, gamma=0.1, colsample_bytree=0.50, min_child_weight=5, subsample=0.50, nrounds=100 
+- Fold08: eta=0.70, max_depth=3, gamma=0.8, colsample_bytree=0.25, min_child_weight=1, subsample=0.50, nrounds=500 
++ Fold09: eta=0.50, max_depth=6, gamma=0.1, colsample_bytree=0.50, min_child_weight=5, subsample=1.00, nrounds=500 
+- Fold09: eta=0.50, max_depth=3, gamma=0.1, colsample_bytree=0.50, min_child_weight=5, subsample=0.50, nrounds=100 
++ Fold09: eta=0.60, max_depth=5, gamma=0.7, colsample_bytree=1.00, min_child_weight=1, subsample=0.50, nrounds=500 
+- Fold07: eta=0.50, max_depth=6, gamma=0.1, colsample_bytree=0.50, min_child_weight=5, subsample=1.00, nrounds=500 
++ Fold09: eta=0.70, max_depth=3, gamma=0.8, colsample_bytree=0.25, min_child_weight=1, subsample=0.50, nrounds=500 
+- Fold08: eta=0.70, max_depth=3, gamma=0.8, colsample_bytree=0.50, min_child_weight=3, subsample=0.25, nrounds=500 
++ Fold09: eta=0.70, max_depth=3, gamma=0.8, colsample_bytree=0.50, min_child_weight=3, subsample=0.25, nrounds=500 
+- Fold09: eta=0.10, max_depth=5, gamma=0.7, colsample_bytree=0.25, min_child_weight=3, subsample=0.25, nrounds=100 
++ Fold09: eta=0.90, max_depth=3, gamma=0.2, colsample_bytree=0.75, min_child_weight=3, subsample=1.00, nrounds=100 
+- Fold09: eta=0.01, max_depth=3, gamma=1.0, colsample_bytree=0.25, min_child_weight=3, subsample=1.00, nrounds=500 
++ Fold09: eta=0.99, max_depth=5, gamma=0.8, colsample_bytree=0.50, min_child_weight=5, subsample=0.50, nrounds=500 
+- Fold09: eta=0.90, max_depth=3, gamma=0.2, colsample_bytree=0.75, min_child_weight=3, subsample=1.00, nrounds=100 
++ Fold10: eta=0.01, max_depth=3, gamma=1.0, colsample_bytree=0.25, min_child_weight=3, subsample=1.00, nrounds=500 
+- Fold09: eta=0.10, max_depth=3, gamma=0.0, colsample_bytree=0.50, min_child_weight=3, subsample=1.00, nrounds=500 
++ Fold10: eta=0.10, max_depth=3, gamma=0.0, colsample_bytree=0.50, min_child_weight=3, subsample=1.00, nrounds=500 
+- Fold08: eta=0.99, max_depth=5, gamma=0.8, colsample_bytree=0.50, min_child_weight=5, subsample=0.50, nrounds=500 
++ Fold10: eta=0.10, max_depth=5, gamma=0.7, colsample_bytree=0.25, min_child_weight=3, subsample=0.25, nrounds=100 
+- Fold08: eta=0.50, max_depth=6, gamma=0.1, colsample_bytree=0.50, min_child_weight=5, subsample=1.00, nrounds=500 
++ Fold10: eta=0.50, max_depth=3, gamma=0.1, colsample_bytree=0.50, min_child_weight=5, subsample=0.50, nrounds=100 
+- Fold08: eta=0.60, max_depth=5, gamma=0.7, colsample_bytree=1.00, min_child_weight=1, subsample=0.50, nrounds=500 
++ Fold10: eta=0.50, max_depth=6, gamma=0.1, colsample_bytree=0.50, min_child_weight=5, subsample=1.00, nrounds=500 
+- Fold09: eta=0.70, max_depth=3, gamma=0.8, colsample_bytree=0.50, min_child_weight=3, subsample=0.25, nrounds=500 
++ Fold10: eta=0.60, max_depth=5, gamma=0.7, colsample_bytree=1.00, min_child_weight=1, subsample=0.50, nrounds=500 
+- Fold09: eta=0.70, max_depth=3, gamma=0.8, colsample_bytree=0.25, min_child_weight=1, subsample=0.50, nrounds=500 
++ Fold10: eta=0.70, max_depth=3, gamma=0.8, colsample_bytree=0.25, min_child_weight=1, subsample=0.50, nrounds=500 
+- Fold10: eta=0.10, max_depth=5, gamma=0.7, colsample_bytree=0.25, min_child_weight=3, subsample=0.25, nrounds=100 
++ Fold10: eta=0.70, max_depth=3, gamma=0.8, colsample_bytree=0.50, min_child_weight=3, subsample=0.25, nrounds=500 
+- Fold10: eta=0.50, max_depth=3, gamma=0.1, colsample_bytree=0.50, min_child_weight=5, subsample=0.50, nrounds=100 
++ Fold10: eta=0.90, max_depth=3, gamma=0.2, colsample_bytree=0.75, min_child_weight=3, subsample=1.00, nrounds=100 
+- Fold09: eta=0.50, max_depth=6, gamma=0.1, colsample_bytree=0.50, min_child_weight=5, subsample=1.00, nrounds=500 
++ Fold10: eta=0.99, max_depth=5, gamma=0.8, colsample_bytree=0.50, min_child_weight=5, subsample=0.50, nrounds=500 
+- Fold10: eta=0.01, max_depth=3, gamma=1.0, colsample_bytree=0.25, min_child_weight=3, subsample=1.00, nrounds=500 
+- Fold10: eta=0.90, max_depth=3, gamma=0.2, colsample_bytree=0.75, min_child_weight=3, subsample=1.00, nrounds=100 
+- Fold10: eta=0.10, max_depth=3, gamma=0.0, colsample_bytree=0.50, min_child_weight=3, subsample=1.00, nrounds=500 
+- Fold09: eta=0.60, max_depth=5, gamma=0.7, colsample_bytree=1.00, min_child_weight=1, subsample=0.50, nrounds=500 
+- Fold09: eta=0.99, max_depth=5, gamma=0.8, colsample_bytree=0.50, min_child_weight=5, subsample=0.50, nrounds=500 
+- Fold10: eta=0.70, max_depth=3, gamma=0.8, colsample_bytree=0.50, min_child_weight=3, subsample=0.25, nrounds=500 
+- Fold10: eta=0.70, max_depth=3, gamma=0.8, colsample_bytree=0.25, min_child_weight=1, subsample=0.50, nrounds=500 
+- Fold10: eta=0.99, max_depth=5, gamma=0.8, colsample_bytree=0.50, min_child_weight=5, subsample=0.50, nrounds=500 
+- Fold10: eta=0.50, max_depth=6, gamma=0.1, colsample_bytree=0.50, min_child_weight=5, subsample=1.00, nrounds=500 
+- Fold10: eta=0.60, max_depth=5, gamma=0.7, colsample_bytree=1.00, min_child_weight=1, subsample=0.50, nrounds=500 

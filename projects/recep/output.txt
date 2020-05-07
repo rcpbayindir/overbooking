@@ -1,0 +1,2216 @@
+starting worker pid=95154 on localhost:11713 at 10:24:50.689
+starting worker pid=95155 on localhost:11713 at 10:24:50.701
+starting worker pid=95156 on localhost:11713 at 10:24:50.712
+starting worker pid=95157 on localhost:11713 at 10:24:50.723
+starting worker pid=95159 on localhost:11713 at 10:24:50.755
+starting worker pid=95161 on localhost:11713 at 10:24:50.766
+starting worker pid=95162 on localhost:11713 at 10:24:50.777
+starting worker pid=95163 on localhost:11713 at 10:24:50.788
+starting worker pid=95165 on localhost:11713 at 10:24:50.799
+starting worker pid=95166 on localhost:11713 at 10:24:50.807
+starting worker pid=95168 on localhost:11713 at 10:24:50.819
+starting worker pid=95169 on localhost:11713 at 10:24:50.829
+starting worker pid=95170 on localhost:11713 at 10:24:50.840
+starting worker pid=95171 on localhost:11713 at 10:24:50.849
+starting worker pid=95172 on localhost:11713 at 10:24:50.858
+starting worker pid=95173 on localhost:11713 at 10:24:50.868
+starting worker pid=95174 on localhost:11713 at 10:24:50.879
+starting worker pid=95175 on localhost:11713 at 10:24:50.890
+starting worker pid=95176 on localhost:11713 at 10:24:50.901
+starting worker pid=95177 on localhost:11713 at 10:24:50.912
+starting worker pid=95179 on localhost:11713 at 10:24:50.923
+starting worker pid=95180 on localhost:11713 at 10:24:50.934
+starting worker pid=95181 on localhost:11713 at 10:24:50.944
+starting worker pid=95182 on localhost:11713 at 10:24:50.955
+starting worker pid=95183 on localhost:11713 at 10:24:50.966
+starting worker pid=95184 on localhost:11713 at 10:24:50.976
+starting worker pid=95185 on localhost:11713 at 10:24:50.987
+starting worker pid=95186 on localhost:11713 at 10:24:50.998
+starting worker pid=95188 on localhost:11713 at 10:24:51.009
+starting worker pid=95189 on localhost:11713 at 10:24:51.020
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+
+Attaching package: ‘caret’
+
+
+Attaching package: ‘caret’
+
+
+Attaching package: ‘caret’
+
+
+Attaching package: ‘caret’
+
+
+Attaching package: ‘caret’
+
+
+Attaching package: ‘caret’
+
+
+Attaching package: ‘caret’
+
+
+Attaching package: ‘caret’
+
+The following object is masked from ‘package:purrr’:
+
+    lift
+
+The following object is masked from ‘package:purrr’:
+
+    lift
+
+The following object is masked from ‘package:purrr’:
+
+    lift
+
+The following object is masked from ‘package:purrr’:
+
+    lift
+
+The following object is masked from ‘package:purrr’:
+
+    lift
+
+The following object is masked from ‘package:purrr’:
+
+    lift
+
+The following object is masked from ‘package:purrr’:
+
+    lift
+
+The following object is masked from ‘package:purrr’:
+
+    lift
+
+
+Attaching package: ‘caret’
+
+
+Attaching package: ‘caret’
+
+The following object is masked from ‘package:purrr’:
+
+    lift
+
+The following object is masked from ‘package:purrr’:
+
+    lift
+
+
+Attaching package: ‘caret’
+
+
+Attaching package: ‘caret’
+
+The following object is masked from ‘package:purrr’:
+
+    lift
+
+
+Attaching package: ‘caret’
+
+
+Attaching package: ‘caret’
+
+
+Attaching package: ‘caret’
+
+
+Attaching package: ‘caret’
+
+
+Attaching package: ‘caret’
+
+
+Attaching package: ‘caret’
+
+
+Attaching package: ‘caret’
+
+
+Attaching package: ‘caret’
+
+
+Attaching package: ‘caret’
+
+
+Attaching package: ‘caret’
+
+
+Attaching package: ‘caret’
+
+
+Attaching package: ‘caret’
+
+
+Attaching package: ‘caret’
+
+
+Attaching package: ‘caret’
+
+
+Attaching package: ‘caret’
+
+
+Attaching package: ‘caret’
+
+
+Attaching package: ‘caret’
+
+
+Attaching package: ‘caret’
+
+The following object is masked from ‘package:purrr’:
+
+    lift
+
+The following object is masked from ‘package:purrr’:
+
+    lift
+
+The following object is masked from ‘package:purrr’:
+
+    lift
+
+The following object is masked from ‘package:purrr’:
+
+    lift
+
+The following object is masked from ‘package:purrr’:
+
+    lift
+
+The following object is masked from ‘package:purrr’:
+
+    lift
+
+The following object is masked from ‘package:purrr’:
+
+    lift
+
+The following object is masked from ‘package:purrr’:
+
+    lift
+
+The following object is masked from ‘package:purrr’:
+
+    lift
+
+The following object is masked from ‘package:purrr’:
+
+    lift
+
+The following object is masked from ‘package:purrr’:
+
+    lift
+
+The following object is masked from ‘package:purrr’:
+
+    lift
+
+The following object is masked from ‘package:purrr’:
+
+    lift
+
+The following object is masked from ‘package:purrr’:
+
+    lift
+
+The following object is masked from ‘package:purrr’:
+
+    lift
+
+The following object is masked from ‘package:purrr’:
+
+    lift
+
+The following object is masked from ‘package:purrr’:
+
+    lift
+
+The following object is masked from ‘package:purrr’:
+
+    lift
+
+The following object is masked from ‘package:purrr’:
+
+    lift
+
++ Fold01: nrounds=300, max_depth=7, eta=0.5, gamma=0.7, colsample_bytree=0.25, min_child_weight=3, subsample=0.25+ Fold01: nrounds=100, max_depth=7, eta=0.4, gamma=0.6, colsample_bytree=0.25, min_child_weight=5, subsample=0.5  
+
++ Fold01: nrounds=500, max_depth=4, eta=0.5, gamma=0.4, colsample_bytree=0.5, min_child_weight=3, subsample=0.75 
++ Fold01: nrounds=300, max_depth=6, eta=0.6, gamma=0.9, colsample_bytree=0.25, min_child_weight=3, subsample=0.75 
++ Fold01: nrounds=300, max_depth=5, eta=0.3, gamma=0.5, colsample_bytree=0.75, min_child_weight=1, subsample=0.25 
++ Fold01: nrounds=500, max_depth=5, eta=0.1, gamma=0.2, colsample_bytree=0.5, min_child_weight=5, subsample=1 
++ Fold01: nrounds=500, max_depth=5, eta=0.05, gamma=0.4, colsample_bytree=1, min_child_weight=5, subsample=0.5 
++ Fold01: nrounds=300, max_depth=7, eta=0.05, gamma=0.1, colsample_bytree=0.5, min_child_weight=1, subsample=0.5 
++ Fold01: nrounds=500, max_depth=5, eta=0.2, gamma=0.2, colsample_bytree=0.5, min_child_weight=1, subsample=0.5 
++ Fold01: nrounds=500, max_depth=7, eta=0.99, gamma=0.8, colsample_bytree=0.25, min_child_weight=5, subsample=0.5 
+starting worker pid=114694 on localhost:11713 at 11:04:01.580
+starting worker pid=114695 on localhost:11713 at 11:04:01.593
+starting worker pid=114696 on localhost:11713 at 11:04:01.604
+starting worker pid=114697 on localhost:11713 at 11:04:01.616
+starting worker pid=114698 on localhost:11713 at 11:04:01.628
+starting worker pid=114699 on localhost:11713 at 11:04:01.640
+starting worker pid=114700 on localhost:11713 at 11:04:01.651
+starting worker pid=114701 on localhost:11713 at 11:04:01.663
+starting worker pid=114702 on localhost:11713 at 11:04:01.675
+starting worker pid=114703 on localhost:11713 at 11:04:01.686
+starting worker pid=114704 on localhost:11713 at 11:04:01.698
+starting worker pid=114705 on localhost:11713 at 11:04:01.709
+starting worker pid=114706 on localhost:11713 at 11:04:01.721
+starting worker pid=114707 on localhost:11713 at 11:04:01.733
+starting worker pid=114708 on localhost:11713 at 11:04:01.744
+starting worker pid=114709 on localhost:11713 at 11:04:01.756
+starting worker pid=114710 on localhost:11713 at 11:04:01.767
+starting worker pid=114711 on localhost:11713 at 11:04:01.803
+starting worker pid=114712 on localhost:11713 at 11:04:01.813
+starting worker pid=114713 on localhost:11713 at 11:04:01.824
+starting worker pid=114714 on localhost:11713 at 11:04:01.836
+starting worker pid=114715 on localhost:11713 at 11:04:01.847
+starting worker pid=114716 on localhost:11713 at 11:04:01.860
+starting worker pid=114717 on localhost:11713 at 11:04:01.872
+starting worker pid=114718 on localhost:11713 at 11:04:01.883
+starting worker pid=114719 on localhost:11713 at 11:04:01.895
+starting worker pid=114720 on localhost:11713 at 11:04:01.907
+starting worker pid=114721 on localhost:11713 at 11:04:01.919
+starting worker pid=114722 on localhost:11713 at 11:04:01.931
+starting worker pid=114723 on localhost:11713 at 11:04:01.942
++ Fold01: nrounds=300, max_depth=7, eta=0.5, gamma=0.7, colsample_bytree=0.25, min_child_weight=3, subsample=0.25 
++ Fold01: nrounds=500, max_depth=4, eta=0.5, gamma=0.4, colsample_bytree=0.5, min_child_weight=3, subsample=0.75 
++ Fold01: nrounds=300, max_depth=5, eta=0.3, gamma=0.5, colsample_bytree=0.75, min_child_weight=1, subsample=0.25 
++ Fold01: nrounds=500, max_depth=5, eta=0.2, gamma=0.2, colsample_bytree=0.5, min_child_weight=1, subsample=0.5 
++ Fold01: nrounds=500, max_depth=5, eta=0.1, gamma=0.2, colsample_bytree=0.5, min_child_weight=5, subsample=1 
++ Fold01: nrounds=300, max_depth=7, eta=0.05, gamma=0.1, colsample_bytree=0.5, min_child_weight=1, subsample=0.5 
++ Fold01: nrounds=500, max_depth=7, eta=0.99, gamma=0.8, colsample_bytree=0.25, min_child_weight=5, subsample=0.5 
++ Fold01: nrounds=500, max_depth=5, eta=0.05, gamma=0.4, colsample_bytree=1, min_child_weight=5, subsample=0.5 
++ Fold01: nrounds=100, max_depth=7, eta=0.4, gamma=0.6, colsample_bytree=0.25, min_child_weight=5, subsample=0.5 
++ Fold01: nrounds=300, max_depth=6, eta=0.6, gamma=0.9, colsample_bytree=0.25, min_child_weight=3, subsample=0.75 
+starting worker pid=115239 on localhost:11713 at 11:05:42.491
+starting worker pid=115248 on localhost:11713 at 11:05:42.677
+starting worker pid=115257 on localhost:11713 at 11:05:42.864
+starting worker pid=115266 on localhost:11713 at 11:05:43.052
+starting worker pid=115275 on localhost:11713 at 11:05:43.239
+starting worker pid=115284 on localhost:11713 at 11:05:43.423
+starting worker pid=115293 on localhost:11713 at 11:05:43.612
+starting worker pid=115302 on localhost:11713 at 11:05:43.800
+starting worker pid=115313 on localhost:11713 at 11:05:43.987
+starting worker pid=115322 on localhost:11713 at 11:05:44.173
+starting worker pid=115331 on localhost:11713 at 11:05:44.368
+starting worker pid=115340 on localhost:11713 at 11:05:44.552
+starting worker pid=115349 on localhost:11713 at 11:05:44.737
+starting worker pid=115358 on localhost:11713 at 11:05:44.927
+starting worker pid=115367 on localhost:11713 at 11:05:45.113
+starting worker pid=115376 on localhost:11713 at 11:05:45.301
+starting worker pid=115388 on localhost:11713 at 11:05:45.489
+starting worker pid=115400 on localhost:11713 at 11:05:45.681
+starting worker pid=115409 on localhost:11713 at 11:05:45.869
+starting worker pid=115418 on localhost:11713 at 11:05:46.063
+starting worker pid=115427 on localhost:11713 at 11:05:46.253
+starting worker pid=115436 on localhost:11713 at 11:05:46.440
+starting worker pid=115445 on localhost:11713 at 11:05:46.628
+starting worker pid=115454 on localhost:11713 at 11:05:46.813
+starting worker pid=115463 on localhost:11713 at 11:05:46.997
+starting worker pid=115472 on localhost:11713 at 11:05:47.181
+starting worker pid=115486 on localhost:11713 at 11:05:47.367
+starting worker pid=115495 on localhost:11713 at 11:05:47.553
+starting worker pid=115506 on localhost:11713 at 11:05:47.745
+starting worker pid=115515 on localhost:11713 at 11:05:47.934
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
++ Fold01: nrounds=500, max_depth=4, eta=0.5, gamma=0.4, colsample_bytree=0.5, min_child_weight=3, subsample=0.75 
++ Fold01: nrounds=500, max_depth=5, eta=0.1, gamma=0.2, colsample_bytree=0.5, min_child_weight=5, subsample=1 
++ Fold01: nrounds=300, max_depth=7, eta=0.05, gamma=0.1, colsample_bytree=0.5, min_child_weight=1, subsample=0.5 
++ Fold01: nrounds=500, max_depth=7, eta=0.99, gamma=0.8, colsample_bytree=0.25, min_child_weight=5, subsample=0.5 
++ Fold01: nrounds=300, max_depth=6, eta=0.6, gamma=0.9, colsample_bytree=0.25, min_child_weight=3, subsample=0.75 
++ Fold01: nrounds=500, max_depth=5, eta=0.2, gamma=0.2, colsample_bytree=0.5, min_child_weight=1, subsample=0.5 
++ Fold01: nrounds=300, max_depth=7, eta=0.5, gamma=0.7, colsample_bytree=0.25, min_child_weight=3, subsample=0.25 
++ Fold01: nrounds=100, max_depth=7, eta=0.4, gamma=0.6, colsample_bytree=0.25, min_child_weight=5, subsample=0.5 
++ Fold01: nrounds=500, max_depth=5, eta=0.05, gamma=0.4, colsample_bytree=1, min_child_weight=5, subsample=0.5 
++ Fold01: nrounds=300, max_depth=5, eta=0.3, gamma=0.5, colsample_bytree=0.75, min_child_weight=1, subsample=0.25 
+- Fold01: nrounds=100, max_depth=7, eta=0.4, gamma=0.6, colsample_bytree=0.25, min_child_weight=5, subsample=0.5 
++ Fold02: nrounds=100, max_depth=7, eta=0.4, gamma=0.6, colsample_bytree=0.25, min_child_weight=5, subsample=0.5 
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+Error in unserialize(node$con) : error reading from connection
+Error in unserialize(node$con) : error reading from connection
+Error in unserialize(node$con) : error reading from connection
+Error in unserialize(node$con) : error reading from connection
+Error in unserialize(node$con) : error reading from connection
+Error in unserialize(node$con) : error reading from connection
+Error in unserialize(node$con) : error reading from connection
+Error in unserialize(node$con) : error reading from connection
+Error in unserialize(node$con) : error reading from connection
+Error in unserialize(node$con) : error reading from connection
+Error in unserialize(node$con) : error reading from connection
+Error in unserialize(node$con) : error reading from connection
+Error in unserialize(node$con) : error reading from connection
+Error in unserialize(node$con) : error reading from connection
+Error in unserialize(node$con) : error reading from connection
+Error in unserialize(node$con) : error reading from connection
+Error in unserialize(node$con) : error reading from connection
+Error in unserialize(node$con) : error reading from connection
+Error in unserialize(node$con) : error reading from connection
+Error in unserialize(node$con) : error reading from connection
+starting worker pid=117871 on localhost:11713 at 11:13:27.162
+starting worker pid=117880 on localhost:11713 at 11:13:27.350
+starting worker pid=117889 on localhost:11713 at 11:13:27.538
+starting worker pid=117898 on localhost:11713 at 11:13:27.727
+starting worker pid=117907 on localhost:11713 at 11:13:27.915
+starting worker pid=117918 on localhost:11713 at 11:13:28.104
+starting worker pid=117928 on localhost:11713 at 11:13:28.291
+starting worker pid=117937 on localhost:11713 at 11:13:28.478
+starting worker pid=117946 on localhost:11713 at 11:13:28.679
+starting worker pid=117955 on localhost:11713 at 11:13:28.864
+starting worker pid=117964 on localhost:11713 at 11:13:29.057
+starting worker pid=117973 on localhost:11713 at 11:13:29.248
+starting worker pid=117987 on localhost:11713 at 11:13:29.437
+starting worker pid=117997 on localhost:11713 at 11:13:29.622
+starting worker pid=118006 on localhost:11713 at 11:13:29.809
+starting worker pid=118015 on localhost:11713 at 11:13:29.997
+starting worker pid=118024 on localhost:11713 at 11:13:30.185
+starting worker pid=118034 on localhost:11713 at 11:13:30.373
+starting worker pid=118043 on localhost:11713 at 11:13:30.565
+starting worker pid=118052 on localhost:11713 at 11:13:30.755
+starting worker pid=118061 on localhost:11713 at 11:13:30.942
+starting worker pid=118070 on localhost:11713 at 11:13:31.130
+starting worker pid=118080 on localhost:11713 at 11:13:31.317
+starting worker pid=118089 on localhost:11713 at 11:13:31.508
+starting worker pid=118102 on localhost:11713 at 11:13:31.693
+starting worker pid=118111 on localhost:11713 at 11:13:31.882
+starting worker pid=118120 on localhost:11713 at 11:13:32.069
+starting worker pid=118129 on localhost:11713 at 11:13:32.255
+starting worker pid=118138 on localhost:11713 at 11:13:32.451
+starting worker pid=118147 on localhost:11713 at 11:13:32.639
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold03: eta=0.40, max_depth=7, gamma=0.6, colsample_bytree=0.25, min_child_weight=5, subsample=0.50, nrounds=100+ Fold03: eta=0.10, max_depth=5, gamma=0.2, colsample_bytree=0.50, min_child_weight=5, subsample=1.00, nrounds=500  
+
++ Fold03: eta=0.05, max_depth=7, gamma=0.1, colsample_bytree=0.50, min_child_weight=1, subsample=0.50, nrounds=300 
++ Fold03: eta=0.20, max_depth=5, gamma=0.2, colsample_bytree=0.50, min_child_weight=1, subsample=0.50, nrounds=500+ Fold03: eta=0.50, max_depth=4, gamma=0.4, colsample_bytree=0.50, min_child_weight=3, subsample=0.75, nrounds=500  
+
++ Fold03: eta=0.30, max_depth=5, gamma=0.5, colsample_bytree=0.75, min_child_weight=1, subsample=0.25, nrounds=300 
++ Fold03: eta=0.99, max_depth=7, gamma=0.8, colsample_bytree=0.25, min_child_weight=5, subsample=0.50, nrounds=500 
++ Fold03: eta=0.05, max_depth=5, gamma=0.4, colsample_bytree=1.00, min_child_weight=5, subsample=0.50, nrounds=500 
++ Fold03: eta=0.50, max_depth=7, gamma=0.7, colsample_bytree=0.25, min_child_weight=3, subsample=0.25, nrounds=300 
++ Fold03: eta=0.60, max_depth=6, gamma=0.9, colsample_bytree=0.25, min_child_weight=3, subsample=0.75, nrounds=300 
++ Fold01: eta=0.30, max_depth=5, gamma=0.5, colsample_bytree=0.75, min_child_weight=1, subsample=0.25, nrounds=300 
++ Fold01: eta=0.20, max_depth=5, gamma=0.2, colsample_bytree=0.50, min_child_weight=1, subsample=0.50, nrounds=500 
++ Fold01: eta=0.50, max_depth=7, gamma=0.7, colsample_bytree=0.25, min_child_weight=3, subsample=0.25, nrounds=300 
++ Fold01: eta=0.05, max_depth=7, gamma=0.1, colsample_bytree=0.50, min_child_weight=1, subsample=0.50, nrounds=300 
++ Fold01: eta=0.40, max_depth=7, gamma=0.6, colsample_bytree=0.25, min_child_weight=5, subsample=0.50, nrounds=100 
++ Fold02: eta=0.05, max_depth=7, gamma=0.1, colsample_bytree=0.50, min_child_weight=1, subsample=0.50, nrounds=300 
++ Fold02: eta=0.40, max_depth=7, gamma=0.6, colsample_bytree=0.25, min_child_weight=5, subsample=0.50, nrounds=100 
++ Fold01: eta=0.10, max_depth=5, gamma=0.2, colsample_bytree=0.50, min_child_weight=5, subsample=1.00, nrounds=500 
++ Fold02: eta=0.50, max_depth=7, gamma=0.7, colsample_bytree=0.25, min_child_weight=3, subsample=0.25, nrounds=300+ Fold01: eta=0.50, max_depth=4, gamma=0.4, colsample_bytree=0.50, min_child_weight=3, subsample=0.75, nrounds=500  
+
++ Fold01: eta=0.05, max_depth=5, gamma=0.4, colsample_bytree=1.00, min_child_weight=5, subsample=0.50, nrounds=500 
++ Fold01: eta=0.60, max_depth=6, gamma=0.9, colsample_bytree=0.25, min_child_weight=3, subsample=0.75, nrounds=300 
++ Fold02: eta=0.60, max_depth=6, gamma=0.9, colsample_bytree=0.25, min_child_weight=3, subsample=0.75, nrounds=300 
++ Fold02: eta=0.20, max_depth=5, gamma=0.2, colsample_bytree=0.50, min_child_weight=1, subsample=0.50, nrounds=500 
++ Fold02: eta=0.50, max_depth=4, gamma=0.4, colsample_bytree=0.50, min_child_weight=3, subsample=0.75, nrounds=500 
++ Fold02: eta=0.10, max_depth=5, gamma=0.2, colsample_bytree=0.50, min_child_weight=5, subsample=1.00, nrounds=500 
++ Fold02: eta=0.30, max_depth=5, gamma=0.5, colsample_bytree=0.75, min_child_weight=1, subsample=0.25, nrounds=300 
++ Fold02: eta=0.05, max_depth=5, gamma=0.4, colsample_bytree=1.00, min_child_weight=5, subsample=0.50, nrounds=500 
++ Fold02: eta=0.99, max_depth=7, gamma=0.8, colsample_bytree=0.25, min_child_weight=5, subsample=0.50, nrounds=500 
++ Fold01: eta=0.99, max_depth=7, gamma=0.8, colsample_bytree=0.25, min_child_weight=5, subsample=0.50, nrounds=500 
+starting worker pid=12481 on localhost:11722 at 06:02:14.074
+starting worker pid=12492 on localhost:11722 at 06:02:14.244
+starting worker pid=12501 on localhost:11722 at 06:02:14.414
+starting worker pid=12510 on localhost:11722 at 06:02:14.583
+starting worker pid=12519 on localhost:11722 at 06:02:14.752
+starting worker pid=12528 on localhost:11722 at 06:02:14.921
+starting worker pid=12537 on localhost:11722 at 06:02:15.091
+starting worker pid=12546 on localhost:11722 at 06:02:15.259
+starting worker pid=12555 on localhost:11722 at 06:02:15.429
+starting worker pid=12564 on localhost:11722 at 06:02:15.595
+starting worker pid=12573 on localhost:11722 at 06:02:15.762
+starting worker pid=12582 on localhost:11722 at 06:02:15.931
+starting worker pid=12591 on localhost:11722 at 06:02:16.102
+starting worker pid=12600 on localhost:11722 at 06:02:16.273
+starting worker pid=12609 on localhost:11722 at 06:02:16.441
+starting worker pid=12618 on localhost:11722 at 06:02:16.610
+starting worker pid=12627 on localhost:11722 at 06:02:16.781
+starting worker pid=12636 on localhost:11722 at 06:02:16.950
+starting worker pid=12645 on localhost:11722 at 06:02:17.120
+starting worker pid=12655 on localhost:11722 at 06:02:17.289
+starting worker pid=12664 on localhost:11722 at 06:02:17.463
+starting worker pid=12707 on localhost:11722 at 06:02:17.633
+starting worker pid=12716 on localhost:11722 at 06:02:17.803
+starting worker pid=12725 on localhost:11722 at 06:02:17.970
+starting worker pid=12734 on localhost:11722 at 06:02:18.139
+starting worker pid=12743 on localhost:11722 at 06:02:18.311
+starting worker pid=12768 on localhost:11722 at 06:02:18.481
+starting worker pid=12777 on localhost:11722 at 06:02:18.651
+starting worker pid=12786 on localhost:11722 at 06:02:18.819
+starting worker pid=12795 on localhost:11722 at 06:02:18.988
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+starting worker pid=30323 on localhost:11722 at 06:35:00.422
+starting worker pid=30332 on localhost:11722 at 06:35:00.601
+starting worker pid=30341 on localhost:11722 at 06:35:00.777
+starting worker pid=30350 on localhost:11722 at 06:35:00.957
+starting worker pid=30359 on localhost:11722 at 06:35:01.135
+starting worker pid=30370 on localhost:11722 at 06:35:01.311
+starting worker pid=30379 on localhost:11722 at 06:35:01.487
+starting worker pid=30388 on localhost:11722 at 06:35:01.674
+starting worker pid=30397 on localhost:11722 at 06:35:01.865
+starting worker pid=30408 on localhost:11722 at 06:35:02.052
+starting worker pid=30417 on localhost:11722 at 06:35:02.261
+starting worker pid=30426 on localhost:11722 at 06:35:02.439
+starting worker pid=30435 on localhost:11722 at 06:35:02.617
+starting worker pid=30444 on localhost:11722 at 06:35:02.792
+starting worker pid=30453 on localhost:11722 at 06:35:02.970
+starting worker pid=30462 on localhost:11722 at 06:35:03.150
+starting worker pid=30471 on localhost:11722 at 06:35:03.331
+starting worker pid=30481 on localhost:11722 at 06:35:03.509
+starting worker pid=30492 on localhost:11722 at 06:35:03.685
+starting worker pid=30502 on localhost:11722 at 06:35:03.864
+starting worker pid=30511 on localhost:11722 at 06:35:04.042
+starting worker pid=30520 on localhost:11722 at 06:35:04.225
+starting worker pid=30530 on localhost:11722 at 06:35:04.408
+starting worker pid=30539 on localhost:11722 at 06:35:04.585
+starting worker pid=30548 on localhost:11722 at 06:35:04.762
+starting worker pid=30557 on localhost:11722 at 06:35:04.944
+starting worker pid=30566 on localhost:11722 at 06:35:05.125
+starting worker pid=30577 on localhost:11722 at 06:35:05.304
+starting worker pid=30586 on localhost:11722 at 06:35:05.483
+starting worker pid=30595 on localhost:11722 at 06:35:05.660
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: lattice
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+Loading required package: ggplot2
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
+loaded caret and set parent environment
++ Fold03: eta=0.40, max_depth=7, gamma=0.6, colsample_bytree=1.00, min_child_weight=1, subsample=0.25, nrounds=500 
++ Fold03: eta=0.80, max_depth=5, gamma=0.5, colsample_bytree=0.75, min_child_weight=1, subsample=0.25, nrounds=300 
++ Fold03: eta=0.50, max_depth=3, gamma=1.0, colsample_bytree=0.75, min_child_weight=3, subsample=0.50, nrounds=100 
++ Fold01: eta=0.40, max_depth=7, gamma=0.6, colsample_bytree=1.00, min_child_weight=1, subsample=0.25, nrounds=500 
++ Fold01: eta=0.01, max_depth=4, gamma=0.3, colsample_bytree=0.25, min_child_weight=1, subsample=0.75, nrounds=100 
++ Fold01: eta=0.30, max_depth=7, gamma=0.8, colsample_bytree=0.50, min_child_weight=1, subsample=0.75, nrounds=100 
++ Fold02: eta=0.20, max_depth=8, gamma=0.8, colsample_bytree=0.75, min_child_weight=5, subsample=0.75, nrounds=300 
++ Fold01: eta=0.20, max_depth=8, gamma=0.8, colsample_bytree=0.75, min_child_weight=5, subsample=0.75, nrounds=300 
++ Fold02: eta=0.40, max_depth=7, gamma=0.6, colsample_bytree=1.00, min_child_weight=1, subsample=0.25, nrounds=500 
++ Fold01: eta=0.01, max_depth=5, gamma=0.6, colsample_bytree=0.50, min_child_weight=1, subsample=0.25, nrounds=100 
++ Fold01: eta=0.60, max_depth=4, gamma=0.6, colsample_bytree=0.75, min_child_weight=1, subsample=0.75, nrounds=300 
++ Fold02: eta=0.60, max_depth=4, gamma=0.6, colsample_bytree=0.75, min_child_weight=1, subsample=0.75, nrounds=300 
++ Fold03: eta=0.01, max_depth=5, gamma=0.6, colsample_bytree=0.50, min_child_weight=1, subsample=0.25, nrounds=100 
++ Fold02: eta=0.30, max_depth=5, gamma=0.0, colsample_bytree=0.75, min_child_weight=5, subsample=1.00, nrounds=100 
++ Fold01: eta=0.80, max_depth=5, gamma=0.5, colsample_bytree=0.75, min_child_weight=1, subsample=0.25, nrounds=300 
++ Fold02: eta=0.90, max_depth=3, gamma=0.4, colsample_bytree=0.50, min_child_weight=3, subsample=1.00, nrounds=100 
++ Fold02: eta=0.30, max_depth=7, gamma=0.8, colsample_bytree=0.50, min_child_weight=1, subsample=0.75, nrounds=100 
++ Fold02: eta=0.50, max_depth=3, gamma=1.0, colsample_bytree=0.75, min_child_weight=3, subsample=0.50, nrounds=100 
++ Fold02: eta=0.01, max_depth=4, gamma=0.3, colsample_bytree=0.25, min_child_weight=1, subsample=0.75, nrounds=100 
++ Fold02: eta=0.80, max_depth=5, gamma=0.5, colsample_bytree=0.75, min_child_weight=1, subsample=0.25, nrounds=300 
++ Fold02: eta=0.01, max_depth=5, gamma=0.6, colsample_bytree=0.50, min_child_weight=1, subsample=0.25, nrounds=100 
++ Fold03: eta=0.90, max_depth=3, gamma=0.4, colsample_bytree=0.50, min_child_weight=3, subsample=1.00, nrounds=100 
++ Fold03: eta=0.20, max_depth=8, gamma=0.8, colsample_bytree=0.75, min_child_weight=5, subsample=0.75, nrounds=300 
++ Fold03: eta=0.30, max_depth=5, gamma=0.0, colsample_bytree=0.75, min_child_weight=5, subsample=1.00, nrounds=100 
++ Fold01: eta=0.90, max_depth=3, gamma=0.4, colsample_bytree=0.50, min_child_weight=3, subsample=1.00, nrounds=100 
++ Fold03: eta=0.01, max_depth=4, gamma=0.3, colsample_bytree=0.25, min_child_weight=1, subsample=0.75, nrounds=100 
++ Fold03: eta=0.60, max_depth=4, gamma=0.6, colsample_bytree=0.75, min_child_weight=1, subsample=0.75, nrounds=300 
++ Fold01: eta=0.50, max_depth=3, gamma=1.0, colsample_bytree=0.75, min_child_weight=3, subsample=0.50, nrounds=100 
++ Fold01: eta=0.30, max_depth=5, gamma=0.0, colsample_bytree=0.75, min_child_weight=5, subsample=1.00, nrounds=100 
++ Fold03: eta=0.30, max_depth=7, gamma=0.8, colsample_bytree=0.50, min_child_weight=1, subsample=0.75, nrounds=100 
+- Fold01: eta=0.50, max_depth=3, gamma=1.0, colsample_bytree=0.75, min_child_weight=3, subsample=0.50, nrounds=100 
++ Fold04: eta=0.01, max_depth=4, gamma=0.3, colsample_bytree=0.25, min_child_weight=1, subsample=0.75, nrounds=100 
+- Fold02: eta=0.50, max_depth=3, gamma=1.0, colsample_bytree=0.75, min_child_weight=3, subsample=0.50, nrounds=100 
++ Fold04: eta=0.01, max_depth=5, gamma=0.6, colsample_bytree=0.50, min_child_weight=1, subsample=0.25, nrounds=100 
+- Fold02: eta=0.90, max_depth=3, gamma=0.4, colsample_bytree=0.50, min_child_weight=3, subsample=1.00, nrounds=100 
++ Fold04: eta=0.20, max_depth=8, gamma=0.8, colsample_bytree=0.75, min_child_weight=5, subsample=0.75, nrounds=300 
+- Fold03: eta=0.01, max_depth=4, gamma=0.3, colsample_bytree=0.25, min_child_weight=1, subsample=0.75, nrounds=100 
++ Fold04: eta=0.30, max_depth=5, gamma=0.0, colsample_bytree=0.75, min_child_weight=5, subsample=1.00, nrounds=100 
+- Fold03: eta=0.90, max_depth=3, gamma=0.4, colsample_bytree=0.50, min_child_weight=3, subsample=1.00, nrounds=100 
++ Fold04: eta=0.30, max_depth=7, gamma=0.8, colsample_bytree=0.50, min_child_weight=1, subsample=0.75, nrounds=100 
+- Fold01: eta=0.90, max_depth=3, gamma=0.4, colsample_bytree=0.50, min_child_weight=3, subsample=1.00, nrounds=100 
++ Fold04: eta=0.40, max_depth=7, gamma=0.6, colsample_bytree=1.00, min_child_weight=1, subsample=0.25, nrounds=500 
+- Fold03: eta=0.50, max_depth=3, gamma=1.0, colsample_bytree=0.75, min_child_weight=3, subsample=0.50, nrounds=100 
++ Fold04: eta=0.50, max_depth=3, gamma=1.0, colsample_bytree=0.75, min_child_weight=3, subsample=0.50, nrounds=100 
+- Fold02: eta=0.01, max_depth=4, gamma=0.3, colsample_bytree=0.25, min_child_weight=1, subsample=0.75, nrounds=100 
++ Fold04: eta=0.60, max_depth=4, gamma=0.6, colsample_bytree=0.75, min_child_weight=1, subsample=0.75, nrounds=300 
+- Fold01: eta=0.01, max_depth=4, gamma=0.3, colsample_bytree=0.25, min_child_weight=1, subsample=0.75, nrounds=100 
++ Fold04: eta=0.80, max_depth=5, gamma=0.5, colsample_bytree=0.75, min_child_weight=1, subsample=0.25, nrounds=300 
+- Fold02: eta=0.30, max_depth=5, gamma=0.0, colsample_bytree=0.75, min_child_weight=5, subsample=1.00, nrounds=100 
++ Fold04: eta=0.90, max_depth=3, gamma=0.4, colsample_bytree=0.50, min_child_weight=3, subsample=1.00, nrounds=100 
+- Fold03: eta=0.30, max_depth=5, gamma=0.0, colsample_bytree=0.75, min_child_weight=5, subsample=1.00, nrounds=100 
++ Fold05: eta=0.01, max_depth=4, gamma=0.3, colsample_bytree=0.25, min_child_weight=1, subsample=0.75, nrounds=100 
+- Fold01: eta=0.01, max_depth=5, gamma=0.6, colsample_bytree=0.50, min_child_weight=1, subsample=0.25, nrounds=100 
++ Fold05: eta=0.01, max_depth=5, gamma=0.6, colsample_bytree=0.50, min_child_weight=1, subsample=0.25, nrounds=100 
+- Fold04: eta=0.50, max_depth=3, gamma=1.0, colsample_bytree=0.75, min_child_weight=3, subsample=0.50, nrounds=100 
++ Fold05: eta=0.20, max_depth=8, gamma=0.8, colsample_bytree=0.75, min_child_weight=5, subsample=0.75, nrounds=300 
+- Fold01: eta=0.30, max_depth=5, gamma=0.0, colsample_bytree=0.75, min_child_weight=5, subsample=1.00, nrounds=100 
++ Fold05: eta=0.30, max_depth=5, gamma=0.0, colsample_bytree=0.75, min_child_weight=5, subsample=1.00, nrounds=100 
+- Fold02: eta=0.01, max_depth=5, gamma=0.6, colsample_bytree=0.50, min_child_weight=1, subsample=0.25, nrounds=100 
++ Fold05: eta=0.30, max_depth=7, gamma=0.8, colsample_bytree=0.50, min_child_weight=1, subsample=0.75, nrounds=100 
+- Fold04: eta=0.01, max_depth=4, gamma=0.3, colsample_bytree=0.25, min_child_weight=1, subsample=0.75, nrounds=100 
++ Fold05: eta=0.40, max_depth=7, gamma=0.6, colsample_bytree=1.00, min_child_weight=1, subsample=0.25, nrounds=500 
+- Fold03: eta=0.01, max_depth=5, gamma=0.6, colsample_bytree=0.50, min_child_weight=1, subsample=0.25, nrounds=100 
++ Fold05: eta=0.50, max_depth=3, gamma=1.0, colsample_bytree=0.75, min_child_weight=3, subsample=0.50, nrounds=100 

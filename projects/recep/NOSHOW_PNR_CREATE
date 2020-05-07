@@ -1,0 +1,52 @@
+2	  'pnr_no' string, 
+,1	CREATE TABLE 'noshow_pnr'(
+3	  'id_pnr_creation_ymd' string, 
+4	  'pnr_time' string, 
+5	  'date_ymd' string, 
+6	  'his_seq' string, 
+7	  'pnr_his_log_seq' string, 
+8	  'id_pnr_his_log_ymd' string, 
+9	  'pnr_his_log_time' string, 
+10	  'logtime_gmt' string, 
+11	  'last_log_entry_ymd' string, 
+12	  'local_boarding_flag' string, 
+13	  'psgr_ref_no' string, 
+14	  'sgm_ref_no' string, 
+15	  'iti_carrier' string, 
+16	  'flight' string, 
+17	  'selling_class' string, 
+18	  'dep_date' string, 
+19	  'arr_date' string, 
+20	  'origin_point' string, 
+21	  'destination_point' string, 
+22	  'aac_cal' string, 
+23	  'oac_cal' string, 
+24	  'ond_seq' string, 
+25	  'passenger_type' string, 
+26	  'id_pnr_creater_agt_cntry' string, 
+27	  'pos' string, 
+28	  'channel_type' string, 
+29	  'ticketed_status' string, 
+30	  'outbound_flag' string, 
+31	  'ssr_flag' string, 
+32	  'day_of_week' string, 
+33	  'dep_time_range' string, 
+34	  'creation_day_to_departure' string, 
+35	  'log_day_to_departure' string, 
+36	  'last_modified_date_to_derparture' string, 
+37	  'creation_dtd_range' string, 
+38	  'log_dtd_range' string, 
+39	  'last_modified_dtd_range' string, 
+40	  'dep_date_num' string, 
+41	  'ds_dcs_status' string, 
+42	  'noshow_count' string)
+43	ROW FORMAT SERDE 
+44	  'org.apache.hadoop.hive.serde2.lazy.LazySimpleSerDe' 
+45	STORED AS INPUTFORMAT 
+46	  'org.apache.hadoop.mapred.TextInputFormat' 
+47	OUTPUTFORMAT 
+48	  'org.apache.hadoop.hive.ql.io.HiveIgnoreKeyTextOutputFormat'
+49	LOCATION
+50	  'hdfs://ip-10-0-1-134.eu-west-1.compute.internal:8020/user/hive/warehouse/noshow_pnr'
+51	TBLPROPERTIES (
+52	)
